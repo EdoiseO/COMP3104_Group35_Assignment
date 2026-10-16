@@ -3,3 +3,5 @@ The DevOps course is held every Wednesday from 6 p.m. to 9 p.m.
 The DevOps course this fall is being taught by Professor Pritesh Patel.
 
 In this course, we will explore DevOps best practices along with some tools and technologies required to implement DevOps.
+
+In this course, we work using GitHub, Travis, Docker and Kubernetes.
