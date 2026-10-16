@@ -1,0 +1,28 @@
+COMP 3104 - DevOps
+
+Introduction to DevOps
+
+DevOps is a set of practices that brings software development 
+and IT operations closer together.
+Its goal is to improve collaboration, automate repetitive tasks, 
+and deliver software more reliably.
+
+Version Control with Git and GitHub
+
+Version control helps developers track changes to files over time. 
+Git is a distributed version control system that allows developers to create commits, 
+work on branches, and merge changes. GitHub hosts Git repositories and supports collaboration through pull requests and code reviews.
+
+Continuous Integration and Continuous Delivery
+
+Continuous integration (CI) involves regularly integrating changes 
+and using automated checks to identify problems early. 
+Continuous delivery (CD) helps prepare software changes for reliable release. 
+Tools such as GitHub Actions can automate workflow steps when code is pushed to a repository.
+
+Why DevOps Matters
+
+DevOps encourages communication between team members, frequent feedback, automation, 
+and continuous improvement. 
+These practices can reduce integration problems 
+and help teams maintain and deliver software more efficiently.
