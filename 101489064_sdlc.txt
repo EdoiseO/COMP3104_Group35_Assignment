@@ -1,1 +1,3 @@
 "Improve communication and collaboration across teams" Source: COMP3104 Lecture 01 (lecture01_PPT.pdf), page 5.
+
+"Bugs in larger pieces of work are identified early" Source: COMP3104 Lecture 01 (lecture01_PPT.pdf), page 10.
