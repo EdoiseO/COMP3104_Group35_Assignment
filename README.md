@@ -6,12 +6,12 @@ This project brings together our individual work on Git, GitHub collaboration an
 
 ## Group members
 
-| Member | GitHub |
-| --- | --- |
-| Phillip Onofua | [EdoiseO](https://github.com/EdoiseO) |
-| Kalid Ali | [kalidal](https://github.com/kalidal) |
-| Mohamed Amine Ouatar | [Tomamine1](https://github.com/Tomamine1) |
-| Joshua Zaakir | [JoshuaZaakir](https://github.com/JoshuaZaakir) |
+| Member               | GitHub                                          |
+| -------------------- | ----------------------------------------------- |
+| Phillip Onofua       | [EdoiseO](https://github.com/EdoiseO)           |
+| Kalid Ali            | [kalidal](https://github.com/kalidal)           |
+| Mohamed Amine Ouatar | [Tomamine1](https://github.com/Tomamine1)       |
+| Joshua Zaakir        | [JoshuaZaakir](https://github.com/JoshuaZaakir) |
 
 ## Setup
 
@@ -28,11 +28,11 @@ The assignment files are plain text. No application dependencies are required.
 
 Each member creates these three files in the repository root, replacing `STUDENTID` with their student number:
 
-| File | Content |
-| --- | --- |
-| `STUDENTID_gb.txt` | Information about George Brown College |
-| `STUDENTID_devops.txt` | Information about the DevOps course |
-| `STUDENTID_sdlc.txt` | The importance of DevOps in the software development lifecycle |
+| File                   | Content                                                        |
+| ---------------------- | -------------------------------------------------------------- |
+| `STUDENTID_gb.txt`     | Information about George Brown College                         |
+| `STUDENTID_devops.txt` | Information about the DevOps course                            |
+| `STUDENTID_sdlc.txt`   | The importance of DevOps in the software development lifecycle |
 
 ## Branching strategy
 
@@ -44,4 +44,4 @@ Each member creates these three files in the repository root, replacing `STUDENT
 
 ## CI/CD
 
-The CI workflow has not been configured yet. GitHub Actions will be set up under `.github/workflows/`, and its results will be available in the repository's Actions tab.
+GitHub Actions runs `.github/workflows/ci.yml` on every push. The workflow uses `ubuntu-latest` to check out the repository and print a confirmation message. Results are available in the repository’s Actions tab.
