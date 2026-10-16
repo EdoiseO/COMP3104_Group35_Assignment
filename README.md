@@ -45,3 +45,10 @@ Each member creates these three files in the repository root, replacing `STUDENT
 ## CI/CD
 
 GitHub Actions runs `.github/workflows/ci.yml` on every push. The workflow uses `ubuntu-latest` to check out the repository and print a confirmation message. Results are available in the repository’s Actions tab.
+
+## Collaboration and Review
+
+Group members collaborate by maintaining their individual branches, reviewing proposed changes, resolving merge conflicts, and merging completed work through pull requests.
+
+The team should verify that the required files, README, GitHub Actions workflow, and pull request template are present and that the final repository reflects the contributions of all members.
+
