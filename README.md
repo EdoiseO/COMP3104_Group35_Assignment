@@ -52,3 +52,7 @@ Group members collaborate by maintaining their individual branches, reviewing pr
 
 The team should verify that the required files, README, GitHub Actions workflow, and pull request template are present and that the final repository reflects the contributions of all members.
 
+## Contribution Evidence
+
+Each member's work can be verified through the repository's branch list, commit history, pull request history, and GitHub Actions results. Individual submission documents should include the public repository link and screenshots showing the local repository, personal commits, branch structure, and successful CI status.
+
