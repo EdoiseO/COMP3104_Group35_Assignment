@@ -1,4 +1,4 @@
-﻿DevOps is a set of practices that brings software development and IT operations closer together. The COMP 2156 DevOps course introduces students to tools and methods used to collaborate, manage source code, automate workflows, and deliver software reliably.
+﻿DevOps is a set of practices that brings software development and IT operations closer together. The COMP 3104 DevOps course introduces students to tools and methods used to collaborate, manage source code, automate workflows, and deliver software reliably.
 
 Git is a version control system that tracks changes to files. GitHub hosts repositories online and allows developers to share code, review changes, and collaborate through branches and pull requests.
 
