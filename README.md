@@ -6,12 +6,12 @@ This project brings together our individual work on Git, GitHub collaboration an
 
 ## Group members
 
-| Member               | GitHub                                          |
-| -------------------- | ----------------------------------------------- |
-| Phillip Onofua       | [EdoiseO](https://github.com/EdoiseO)           |
-| Kalid Ali            | [kalidal](https://github.com/kalidal)           |
-| Mohamed Amine Ouatar | [Tomamine1](https://github.com/Tomamine1)       |
-| Joshua Zaakir        | [JoshuaZaakir](https://github.com/JoshuaZaakir) |
+| Member               | Student ID | GitHub                                          |
+| ---------------------| ---------- | ----------------------------------------------- |
+| Phillip Onofua       | 101489064  | [EdoiseO](https://github.com/EdoiseO)           |
+| Kalid Ali            | 101577665  | [kalidal](https://github.com/kalidal)           |
+| Mohamed Amine Ouatar | 101579629  | [Tomamine1](https://github.com/Tomamine1)       |
+| Joshua Zaakir        | 101578900  | [JoshuaZaakir](https://github.com/JoshuaZaakir) |
 
 ## Setup
 
