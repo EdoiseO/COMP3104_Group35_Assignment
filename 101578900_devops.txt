@@ -17,3 +17,7 @@ Continuous integration automatically checks a project whenever contributors push
 Quality and Automation
 
 Automation gives a team fast, consistent feedback. Instead of relying only on manual checks, a pipeline performs the same validation for every change. This reduces avoidable errors and allows contributors to identify problems before they reach the main branch. Clear logs are also valuable because they show which step failed and help the team investigate the cause.
+
+Professional Skills
+
+The course develops technical and teamwork skills at the same time. Students practise dividing work, documenting decisions, resolving merge conflicts, reviewing contributions, and communicating project status. These habits support traceability and accountability because the repository shows what changed, who changed it, and why. By completing a collaborative GitHub project with a working CI pipeline, students gain experience with a workflow that resembles modern software delivery.
