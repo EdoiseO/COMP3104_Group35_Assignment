@@ -5,3 +5,7 @@ Student ID: 101578900
 Course Purpose
 
 COMP 3104 introduces the practices that help development and operations teams deliver software reliably. DevOps is not a single tool or job title. It is a way of working that combines communication, automation, shared responsibility, and continuous improvement. The course connects these ideas to practical workflows that students can use in individual and team projects.
+
+Version Control and Collaboration
+
+Git is central to the course because it records changes and enables several contributors to work on the same project. Students learn how to create repositories, clone projects, make branches, stage changes, write meaningful commits, and merge completed work. GitHub extends this workflow with remote hosting, pull requests, reviews, issues, and a visible history of each contributor's work. A consistent branch-naming strategy and frequent synchronization reduce confusion and make collaboration easier to manage.
