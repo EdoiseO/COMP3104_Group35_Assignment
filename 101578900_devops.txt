@@ -1,0 +1,23 @@
+COMP 3104 DevOps Course
+Student: Joshua Zaakir
+Student ID: 101578900
+
+Course Purpose
+
+COMP 3104 introduces the practices that help development and operations teams deliver software reliably. DevOps is not a single tool or job title. It is a way of working that combines communication, automation, shared responsibility, and continuous improvement. The course connects these ideas to practical workflows that students can use in individual and team projects.
+
+Version Control and Collaboration
+
+Git is central to the course because it records changes and enables several contributors to work on the same project. Students learn how to create repositories, clone projects, make branches, stage changes, write meaningful commits, and merge completed work. GitHub extends this workflow with remote hosting, pull requests, reviews, issues, and a visible history of each contributor's work. A consistent branch-naming strategy and frequent synchronization reduce confusion and make collaboration easier to manage.
+
+Continuous Integration and Delivery
+
+Continuous integration automatically checks a project whenever contributors push changes or open pull requests. A workflow can install dependencies, run tests, verify formatting, and report whether a change is safe to merge. GitHub Actions expresses this process in YAML files stored with the project. Keeping the workflow in version control makes the automation repeatable, reviewable, and available to every team member.
+
+Quality and Automation
+
+Automation gives a team fast, consistent feedback. Instead of relying only on manual checks, a pipeline performs the same validation for every change. This reduces avoidable errors and allows contributors to identify problems before they reach the main branch. Clear logs are also valuable because they show which step failed and help the team investigate the cause.
+
+Professional Skills
+
+The course develops technical and teamwork skills at the same time. Students practise dividing work, documenting decisions, resolving merge conflicts, reviewing contributions, and communicating project status. These habits support traceability and accountability because the repository shows what changed, who changed it, and why. By completing a collaborative GitHub project with a working CI pipeline, students gain experience with a workflow that resembles modern software delivery.

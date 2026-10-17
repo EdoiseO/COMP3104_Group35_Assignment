@@ -1,0 +1,27 @@
+The Importance of DevOps in the Software Development Life Cycle
+Student: Joshua Zaakir
+Student ID: 101578900
+
+DevOps Across the SDLC
+
+The software development life cycle includes planning, analysis, design, implementation, testing, deployment, operation, and maintenance. Traditional processes may separate these stages among different teams, which can cause slow feedback and difficult handoffs. DevOps connects the stages through collaboration, automation, and shared ownership so that software can move from an idea to a dependable service more efficiently.
+
+Planning and Development
+
+During planning, DevOps encourages teams to define measurable goals, identify risks, and agree on how success will be evaluated. Version control supports development by keeping a traceable history of the code and documentation. Branches allow contributors to work independently, while pull requests create a checkpoint for discussion and review before changes reach the main branch.
+
+Testing and Integration
+
+Continuous integration improves the testing stage by running automated checks whenever the project changes. Early feedback helps developers find defects when they are easier and less expensive to correct. A shared pipeline also creates a consistent standard because every contribution is evaluated by the same process. This prevents quality from depending entirely on one person's local environment or memory.
+
+Release and Deployment
+
+Continuous delivery prepares validated changes for release in a repeatable manner. Automated build and deployment steps reduce manual effort and lower the chance of configuration mistakes. Smaller, more frequent releases are easier to understand and troubleshoot than large releases containing many unrelated changes. Teams can also use approvals and protected branches to balance delivery speed with control.
+
+Operations and Feedback
+
+After deployment, monitoring and logs show how the software behaves in real conditions. Operational feedback can reveal failures, performance problems, and user needs that were not visible during development. The team can use this information to plan the next improvement, creating a continuous feedback loop across the SDLC.
+
+Organizational Value
+
+DevOps improves the SDLC by making work visible, repeatable, and collaborative. It shortens feedback cycles, supports reliable releases, and encourages development and operations teams to solve problems together. Security practices can also be included in automated workflows, often called DevSecOps, so vulnerabilities are considered throughout the life cycle instead of only at the end. When supported by clear communication and responsible automation, DevOps helps organizations deliver higher-quality software while responding more quickly to change.
