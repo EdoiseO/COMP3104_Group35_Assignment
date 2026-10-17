@@ -9,3 +9,11 @@ The software development life cycle includes planning, analysis, design, impleme
 Planning and Development
 
 During planning, DevOps encourages teams to define measurable goals, identify risks, and agree on how success will be evaluated. Version control supports development by keeping a traceable history of the code and documentation. Branches allow contributors to work independently, while pull requests create a checkpoint for discussion and review before changes reach the main branch.
+
+Testing and Integration
+
+Continuous integration improves the testing stage by running automated checks whenever the project changes. Early feedback helps developers find defects when they are easier and less expensive to correct. A shared pipeline also creates a consistent standard because every contribution is evaluated by the same process. This prevents quality from depending entirely on one person's local environment or memory.
+
+Release and Deployment
+
+Continuous delivery prepares validated changes for release in a repeatable manner. Automated build and deployment steps reduce manual effort and lower the chance of configuration mistakes. Smaller, more frequent releases are easier to understand and troubleshoot than large releases containing many unrelated changes. Teams can also use approvals and protected branches to balance delivery speed with control.
