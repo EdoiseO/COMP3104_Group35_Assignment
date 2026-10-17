@@ -5,3 +5,11 @@ Student ID: 101578900
 Overview
 
 George Brown College is a public college in Toronto, Ontario. Its downtown location connects students with one of Canada's largest employment markets and gives many programs direct access to employers, community organizations, and professional networks. The college offers certificates, diplomas, degrees, apprenticeships, and continuing-education options in areas such as technology, business, design, health sciences, hospitality, and community services.
+
+Applied Learning
+
+A major strength of George Brown College is its focus on career-oriented, practical education. Classroom concepts are reinforced through laboratories, projects, simulations, field placements, and co-operative education opportunities. This approach helps students understand not only the theory behind a subject but also how that knowledge is used in a real workplace. Team assignments further develop communication, planning, accountability, and problem-solving skills.
+
+Technology Education
+
+Technology programs at George Brown College prepare students to work with modern tools while building strong foundations in analysis and design. Students learn to create solutions, test their work, document decisions, and collaborate with others. Courses in software development, cloud computing, networking, cybersecurity, databases, and DevOps expose students to practices that are common in the technology industry.
