@@ -9,3 +9,11 @@ COMP 3104 introduces the practices that help development and operations teams de
 Version Control and Collaboration
 
 Git is central to the course because it records changes and enables several contributors to work on the same project. Students learn how to create repositories, clone projects, make branches, stage changes, write meaningful commits, and merge completed work. GitHub extends this workflow with remote hosting, pull requests, reviews, issues, and a visible history of each contributor's work. A consistent branch-naming strategy and frequent synchronization reduce confusion and make collaboration easier to manage.
+
+Continuous Integration and Delivery
+
+Continuous integration automatically checks a project whenever contributors push changes or open pull requests. A workflow can install dependencies, run tests, verify formatting, and report whether a change is safe to merge. GitHub Actions expresses this process in YAML files stored with the project. Keeping the workflow in version control makes the automation repeatable, reviewable, and available to every team member.
+
+Quality and Automation
+
+Automation gives a team fast, consistent feedback. Instead of relying only on manual checks, a pipeline performs the same validation for every change. This reduces avoidable errors and allows contributors to identify problems before they reach the main branch. Clear logs are also valuable because they show which step failed and help the team investigate the cause.
