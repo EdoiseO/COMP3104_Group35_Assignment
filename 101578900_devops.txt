@@ -1,0 +1,7 @@
+COMP 3104 DevOps Course
+Student: Joshua Zaakir
+Student ID: 101578900
+
+Course Purpose
+
+COMP 3104 introduces the practices that help development and operations teams deliver software reliably. DevOps is not a single tool or job title. It is a way of working that combines communication, automation, shared responsibility, and continuous improvement. The course connects these ideas to practical workflows that students can use in individual and team projects.
