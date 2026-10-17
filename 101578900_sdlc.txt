@@ -17,3 +17,11 @@ Continuous integration improves the testing stage by running automated checks wh
 Release and Deployment
 
 Continuous delivery prepares validated changes for release in a repeatable manner. Automated build and deployment steps reduce manual effort and lower the chance of configuration mistakes. Smaller, more frequent releases are easier to understand and troubleshoot than large releases containing many unrelated changes. Teams can also use approvals and protected branches to balance delivery speed with control.
+
+Operations and Feedback
+
+After deployment, monitoring and logs show how the software behaves in real conditions. Operational feedback can reveal failures, performance problems, and user needs that were not visible during development. The team can use this information to plan the next improvement, creating a continuous feedback loop across the SDLC.
+
+Organizational Value
+
+DevOps improves the SDLC by making work visible, repeatable, and collaborative. It shortens feedback cycles, supports reliable releases, and encourages development and operations teams to solve problems together. Security practices can also be included in automated workflows, often called DevSecOps, so vulnerabilities are considered throughout the life cycle instead of only at the end. When supported by clear communication and responsible automation, DevOps helps organizations deliver higher-quality software while responding more quickly to change.
